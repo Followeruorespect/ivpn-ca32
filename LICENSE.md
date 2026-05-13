@@ -1,4 +1,4 @@
-
+new IVPN Module | PPTP-support + dedicated-IP is the best IVPN module, featuring PPTP-support and dedicated-IP. Secure, fast, and optimized for privacy.
 
 
 
